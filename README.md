@@ -1,5 +1,5 @@
 # Publicis Sapient Learning Program
-*This repository contains the weekly assignments from the Publicis Sapietn Pre-Learning Program.*
+*This repository contains the weekly assignments from the Publicis Sapient Pre-Learning Program.*
 
 Week 1:
  - Created a simple java project

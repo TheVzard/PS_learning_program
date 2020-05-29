@@ -10,3 +10,6 @@ Week 1:
  - Created a mongodb cluster
  - Created a replication node
  - Created a replication node with a delay of 1 hour
+ 
+  Week 3:
+ - Created a java program to map prime numbers and alphabets and give output in hexadecimal given a name

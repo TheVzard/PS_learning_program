@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+ 
+}
+@media screen and (min-width: 300px) and (min-height: 350px) {
+    body {
+        font-family: Helvetica;
+        color: blue;
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 100px) and (max-height: 100px) {
+    body {
+        font-family: Courier;
+        color: green !important;
+        font-size: 10px;
+    }
+}
+@media screen and (min-width: 786px) and (min-height: 600px) {
+    body {
+        font-family: Arial;
+        color: yellow;
+        font-size: 36px;
+    }
+}
+

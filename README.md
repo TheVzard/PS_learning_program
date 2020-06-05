@@ -19,3 +19,6 @@
  
  Week 5:
  - Created a java program for Quiz application
+ 
+ Week 6:
+ - Creating a web application which works with various sized devices like desktop, tablet, mobile phone etc.

@@ -16,3 +16,6 @@
  
  Week 4:
  - Created a java program to map a string given from input to give the synonym of the word
+ 
+ Week 5:
+ - Created a java program for Quiz application

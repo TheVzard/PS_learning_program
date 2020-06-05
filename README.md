@@ -22,3 +22,6 @@
  
  Week 6:
  - Creating a web application which works with various sized devices like desktop, tablet, mobile phone etc.
+ 
+ Week 7:
+ - Creating a Mobile with dependency like Camera, Screen etc. using Spring Framework IoC
